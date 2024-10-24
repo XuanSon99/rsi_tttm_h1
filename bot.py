@@ -27,7 +27,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQuer
 
 # Define key
 # TOKEN = "6445050105:AAGaFyxd5d0Mp-_kUfQOhAg7ZFhnQv53IXU"  # bot ma scalp
-TOKEN = "6643863300:AAF2OhcI9g70Q4boORLB_XHdBxE9NnFsNwI"  # mailisa bot
+TOKEN = "7754975568:AAEeHciu8pg98OSiEujDTljV-0awu_-I73E"  # mailisa bot
 # TOKEN = "6649758324:AAGNvtZ6e4CTaEPwACa9o3IzUcXzmN7zZz0"  # test bot
 BASE_URL = "https://contract.mexc.com/api/v1"
 INTERVAL = "Min60"
